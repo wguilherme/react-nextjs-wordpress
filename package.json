@@ -1,0 +1,19 @@
+{
+  "name": "react-nextjs-wordpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wguilherme/react-nextjs-wordpress.git",
+  "author": "W. Guilherme <ravok123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 8080"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
